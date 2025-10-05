@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="User"/>
+    <version value="5"/>
+    <list>
+        <mapping class="com.android.keepaccounts.bean.db.UserInfo"/>
+        <mapping class="com.android.keepaccounts.bean.db.AccountInfo"/>
+    </list>
+</litepal>
